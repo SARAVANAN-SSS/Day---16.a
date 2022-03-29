@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+}
+
+.github {
+    margin: 20px auto;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+.icon {
+    color: #fff;
+    padding-left: 20px;
+}
+
+.navbar {
+    background-color: rgb(92, 91, 91);
+}
+
+.card1 {
+    height: 500px;
+    width: 800px;
+    background-color: rgb(92, 91, 91);
+    margin: 60px 70px;
+    border-radius: 25px;
+}
+
+.card2 {
+    height: 150px;
+    width: 250px;
+    background-color: rgb(92, 91, 91);
+    margin: 20px 30px;
+    border-radius: 15px;
+}
+
+.card3 {
+    height: 150px;
+    width: 870px;
+    background-color: rgb(92, 91, 91);
+    margin: 60px 30px;
+    border-radius: 15px;
+}
+
+.search {
+    color: #fff;
+    background-color: rgb(92, 91, 91);
+    height: 40px;
+    width: 600px;
+    border-radius: 10px;
+    padding: 5px 25px;
+    margin: 60px 150px;
+    letter-spacing: 3px;
+}
+
+.sub {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
